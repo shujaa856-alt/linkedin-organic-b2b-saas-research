@@ -1,6 +1,6 @@
 # Research Sources
 
-Practitioners who regularly publish actionable guidance relevant to LinkedIn organic content strategy for B2B SaaS. Roles and links were checked against publicly available information on June 21, 2026. A blank cell means the detail could not be verified confidently.
+Practitioners who regularly publish actionable guidance relevant to LinkedIn organic content strategy for B2B SaaS. These experts were selected based on their consistent contributions to LinkedIn, newsletters, podcasts, and hands-on experience building or marketing B2B SaaS companies.
 
 | Full Name | Current Role & Company | Why they are a credible source | LinkedIn Profile URL | Other relevant channels |
 |---|---|---|---|---|
